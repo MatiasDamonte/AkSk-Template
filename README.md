@@ -1,2 +1,2 @@
-# AkSk-Template
+# courseapp
 Created with CodeSandbox
